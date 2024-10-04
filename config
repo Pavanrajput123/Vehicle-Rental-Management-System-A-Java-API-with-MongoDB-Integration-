@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Pavanrajput123/Vehicle-Rental-Management-System-A-Java-API-with-MongoDB-Integration.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
